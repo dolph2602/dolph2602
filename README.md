@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0xdolph
+- 👋 Hi, I’m Dola
 - 👀 I’m interested in web development and the web3 as a whole 
 - 🌱 I’m currently learning JavaScript
 - I’m looking to collaborate on nothing yet for now but soon inshallah 
