@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 - I’m looking to collaborate on nothing yet for now but soon inshallah 
 - 📫 How to reach me my email: aladefawaz604@gmail.com.
-- Twitter @dola_porr
+
    
 
 <!---
